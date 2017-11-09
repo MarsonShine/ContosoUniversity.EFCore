@@ -5,7 +5,7 @@ namespace ContosoUniversity.EFCore.Data
 {
     public class SchoolContext : DbContext
     {
-        protected SchoolContext(DbContextOptions<SchoolContext> options):
+        public SchoolContext(DbContextOptions<SchoolContext> options):
             base(options)
         {
         }
