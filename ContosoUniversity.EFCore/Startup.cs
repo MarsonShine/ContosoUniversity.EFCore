@@ -25,7 +25,9 @@ namespace ContosoUniversity.EFCore
         {
             services.AddDbContext<SchoolContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+                //UseRowNumberForPaging 是兼容sql2012一下版本，因为不支持分页操作Skip，Take不支持OFFSET，FETECH操作
+                //详情见：https://github.com/aspnet/EntityFrameworkCore/issues/4616
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"), b => b.UseRowNumberForPaging());
             });
             services.AddMvc();
         }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.EFCore", "ContosoUniversity.EFCore\ContosoUniversity.EFCore.csproj", "{C93DF01F-37CA-4BBE-A9F5-434BC0BAE631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversity.EFCore", "ContosoUniversity.EFCore\ContosoUniversity.EFCore.csproj", "{C93DF01F-37CA-4BBE-A9F5-434BC0BAE631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
