@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace ContosoUniversity.EFCore.Migrations
 {
-    public partial class ComplexDataModel : Migration
+    public partial class RowVersion : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -43,12 +43,12 @@ namespace ContosoUniversity.EFCore.Migrations
                 oldClrType: typeof(string),
                 oldNullable: true);
 
-            //migrationBuilder.AddColumn<int>(
-            //    name: "DepartmentID",
-            //    table: "Course",
-            //    type: "int",
-            //    nullable: false,
-            //    defaultValue: 0);
+            migrationBuilder.AddColumn<int>(
+                name: "DepartmentID",
+                table: "Course",
+                type: "int",
+                nullable: false,
+                defaultValue: 0);
 
             migrationBuilder.CreateTable(
                 name: "Instructor",
@@ -98,6 +98,7 @@ namespace ContosoUniversity.EFCore.Migrations
                     Budget = table.Column<decimal>(type: "money", nullable: false),
                     InstructorID = table.Column<int>(type: "int", nullable: true),
                     Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: true),
+                    RowVersion = table.Column<byte[]>(type: "rowversion", rowVersion: true, nullable: true),
                     StartDate = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
@@ -110,13 +111,6 @@ namespace ContosoUniversity.EFCore.Migrations
                         principalColumn: "ID",
                         onDelete: ReferentialAction.Restrict);
                 });
-
-            migrationBuilder.Sql("INSERT INTO dbo.Department (Name, Budget, StartDate) VALUES ('Temp', 0.00, GETDATE())");
-            migrationBuilder.AddColumn<int>(
-                name: "DepartmentID",
-                table: "Course",
-                nullable: false,
-                defaultValue: 1);
 
             migrationBuilder.CreateTable(
                 name: "OfficeAssignment",

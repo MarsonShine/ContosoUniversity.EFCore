@@ -12,8 +12,8 @@ using System;
 namespace ContosoUniversity.EFCore.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20171113071926_ComplexDataModel")]
-    partial class ComplexDataModel
+    [Migration("20171114040909_RowVersion")]
+    partial class RowVersion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -65,6 +65,10 @@ namespace ContosoUniversity.EFCore.Migrations
 
                     b.Property<string>("Name")
                         .HasMaxLength(50);
+
+                    b.Property<byte[]>("RowVersion")
+                        .IsConcurrencyToken()
+                        .ValueGeneratedOnAddOrUpdate();
 
                     b.Property<DateTime>("StartDate");
 

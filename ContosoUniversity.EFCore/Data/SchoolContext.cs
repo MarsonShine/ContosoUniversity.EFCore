@@ -26,7 +26,9 @@ namespace ContosoUniversity.EFCore.Data
             modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
             modelBuilder.Entity<Student>().ToTable("Student");
 
-            modelBuilder.Entity<Department>().ToTable("Department");
+            modelBuilder.Entity<Department>().ToTable("Department")
+                .Property(p => p.RowVersion).IsConcurrencyToken();
+
             modelBuilder.Entity<Instructor>().ToTable("Instructor");
             modelBuilder.Entity<OfficeAssignment>().ToTable("OfficeAssignment");
             modelBuilder.Entity<CourseAssignment>().ToTable("CourseAssignment");
