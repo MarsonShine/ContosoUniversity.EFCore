@@ -18,6 +18,7 @@ namespace ContosoUniversity.EFCore.Data
         public DbSet<Instructor> Instructors { get; set; }
         public DbSet<OfficeAssignment> OfficeAssignments { get; set; }
         public DbSet<CourseAssignment> CourseAssignments { get; set; }
+        public DbSet<Person> People { get; set; }
 
         //生成数据表
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -32,6 +33,7 @@ namespace ContosoUniversity.EFCore.Data
             modelBuilder.Entity<Instructor>().ToTable("Instructor");
             modelBuilder.Entity<OfficeAssignment>().ToTable("OfficeAssignment");
             modelBuilder.Entity<CourseAssignment>().ToTable("CourseAssignment");
+            modelBuilder.Entity<CourseAssignment>().ToTable("Person");
 
             modelBuilder.Entity<CourseAssignment>()
                 .HasKey(c => new { c.CourseID, c.InstructorID });
