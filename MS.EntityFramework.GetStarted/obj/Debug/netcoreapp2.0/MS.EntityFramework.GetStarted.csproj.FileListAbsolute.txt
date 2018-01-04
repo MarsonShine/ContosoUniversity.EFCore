@@ -1,0 +1,11 @@
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\bin\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.deps.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\bin\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.runtimeconfig.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\bin\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.runtimeconfig.dev.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\bin\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\bin\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.csprojResolveAssemblyReference.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.csproj.CoreCompileInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.AssemblyInfoInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.AssemblyInfo.cs
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramework.GetStarted\obj\Debug\netcoreapp2.0\MS.EntityFramework.GetStarted.pdb

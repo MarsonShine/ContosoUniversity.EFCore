@@ -1,0 +1,11 @@
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\bin\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.deps.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\bin\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.runtimeconfig.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\bin\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.runtimeconfig.dev.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\bin\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\bin\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.csproj.CoreCompileInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.AssemblyInfoInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.AssemblyInfo.cs
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFramworkCore.ExistingDb\obj\Debug\netcoreapp2.0\MS.EntityFramworkCore.ExistingDb.csprojResolveAssemblyReference.cache

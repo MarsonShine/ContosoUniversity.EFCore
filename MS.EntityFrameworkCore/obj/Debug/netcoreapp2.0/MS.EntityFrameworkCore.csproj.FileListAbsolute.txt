@@ -1,0 +1,11 @@
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\bin\Debug\netcoreapp2.0\MS.EntityFrameworkCore.deps.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\bin\Debug\netcoreapp2.0\MS.EntityFrameworkCore.runtimeconfig.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\bin\Debug\netcoreapp2.0\MS.EntityFrameworkCore.runtimeconfig.dev.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\bin\Debug\netcoreapp2.0\MS.EntityFrameworkCore.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\bin\Debug\netcoreapp2.0\MS.EntityFrameworkCore.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.AssemblyInfo.cs
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\MS.EntityFrameworkCore\obj\Debug\netcoreapp2.0\MS.EntityFrameworkCore.csprojResolveAssemblyReference.cache
