@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversity.EFCore", "ContosoUniversity.EFCore\ContosoUniversity.EFCore.csproj", "{C93DF01F-37CA-4BBE-A9F5-434BC0BAE631}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.EntityFrameworkCore", "MS.EntityFrameworkCore\MS.EntityFrameworkCore.csproj", "{9163CF18-9154-4D93-BB08-EEF2791081F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.EntityFrameworkCore", "MS.EntityFrameworkCore\MS.EntityFrameworkCore.csproj", "{9163CF18-9154-4D93-BB08-EEF2791081F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.EntityFramworkCore.ExistingDb", "MS.EntityFramworkCore.ExistingDb\MS.EntityFramworkCore.ExistingDb.csproj", "{FF74795F-D683-401B-81C7-5B28A7B35482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.EntityFramworkCore.ExistingDb", "MS.EntityFramworkCore.ExistingDb\MS.EntityFramworkCore.ExistingDb.csproj", "{FF74795F-D683-401B-81C7-5B28A7B35482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.EntityFramework.GetStarted", "MS.EntityFramework.GetStarted\MS.EntityFramework.GetStarted.csproj", "{853CD4AD-8D46-4490-B369-802AA26EF283}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.EntityFramework.GetStarted", "MS.EntityFramework.GetStarted\MS.EntityFramework.GetStarted.csproj", "{853CD4AD-8D46-4490-B369-802AA26EF283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWeb", "AspNetCoreWeb\AspNetCoreWeb.csproj", "{737E0BDA-A4BB-41BC-8EAC-FB020F5EA56F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{853CD4AD-8D46-4490-B369-802AA26EF283}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853CD4AD-8D46-4490-B369-802AA26EF283}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853CD4AD-8D46-4490-B369-802AA26EF283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737E0BDA-A4BB-41BC-8EAC-FB020F5EA56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737E0BDA-A4BB-41BC-8EAC-FB020F5EA56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737E0BDA-A4BB-41BC-8EAC-FB020F5EA56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737E0BDA-A4BB-41BC-8EAC-FB020F5EA56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

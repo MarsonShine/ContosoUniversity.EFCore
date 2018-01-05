@@ -1,0 +1,11 @@
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\bin\Debug\netcoreapp2.0\AspNetCoreWeb.deps.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\bin\Debug\netcoreapp2.0\AspNetCoreWeb.runtimeconfig.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\bin\Debug\netcoreapp2.0\AspNetCoreWeb.runtimeconfig.dev.json
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\bin\Debug\netcoreapp2.0\AspNetCoreWeb.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\bin\Debug\netcoreapp2.0\AspNetCoreWeb.pdb
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.csprojResolveAssemblyReference.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.csproj.CoreCompileInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.AssemblyInfoInputs.cache
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.AssemblyInfo.cs
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.dll
+D:\MS\Project\dotnet\ContosoUniversity.EFCore\AspNetCoreWeb\obj\Debug\netcoreapp2.0\AspNetCoreWeb.pdb
